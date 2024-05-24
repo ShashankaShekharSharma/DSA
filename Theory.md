@@ -11,3 +11,8 @@
   |Single Run|Multiple Run|
   |Memory not utilised in efficient way|Memory utilised in efficient way|
   |Arrays, Stack, Linked List|Tree, Graph|
+|Data Structure|Python|Java|C++|
+|--------------|------|----|---|
+|Array|List|Native Array and ArrayList|Native Array and std::vector|
+|Hash Table|Dictionary|Hash Map and Linked Hash Map|std::map|
+|Linked List|Not available|Linked List|std::list|
